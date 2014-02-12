@@ -4,33 +4,6 @@ package tetris;
  * Finalized on January 8, 2012
  */
 
-/* Game Program: TETRIS 
- * Producers: David Zhang & Jeff Jun 
- * Class: ICS3U1-01
- * Teacher: Ms. Wun 
- * Year: 2011-2012 
- * Due Date: January 9, 2012 
- * 
- * A Couple of Notices: 
- * 
- * (1) Certain Parts of the Code Belong Rightfully to ZetCode, 
- * as certain graphics and algorithm were referenced through their site. 
- * The parts are marked by 'ZetCode' within comment blocks. 
- * We have added a lot more original features that are not part of the original game from ZetCode. 
- * We believe that they should be rightfully credited, and want to thank them for making our game possible. 
- * To access their original Tetris code, Visit: 
- * 
- * http://zetcode.com/tutorials/javagamestutorial/tetris/
- * 
- * (2) Playing of the game requires the existence of a critical text file 'UserAccountNames.txt', which should
- * come along with the game file . If this file be missing, the game would not run properly. To fix the problem, 
- * go to your Java Workspace, and find the work file that contains the game codes; Go into the file, and right-click 
- * "New Text Document", and name it 'UserAccountNames.txt'.
- * 
- * (3) This game comes with Auto-Save feature, meaning you do not have to manually save the game. 
- * 
- */
-
 import static tetris.Shape.*;
 
 
